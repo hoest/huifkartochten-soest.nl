@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /css/
+Disallow: /text/
+Disallow: /php/
+Sitemap: http://www.huifkarrit.nl/sitemap.xml

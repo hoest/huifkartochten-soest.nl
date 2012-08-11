@@ -1,0 +1,89 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: sans-serif;
+  font-size: 10pt;
+}
+
+body {
+  text-align: center;
+}
+
+#main {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff;
+  width: 600px;
+  text-align: left;
+}
+
+#header {
+  background-image: url('../images/header_kleinmiddelwijck.jpg');
+  height: 240px;
+  clear: both;
+  padding: 5px 5px 5px 5px;
+}
+
+#header h1 {
+  font-size: 18pt;
+  font-style: italic;
+  text-align: center;
+}
+
+#page {
+  clear: both;
+}
+
+#menu {
+  width: 200px;
+  float: left;
+}
+
+#menu ul {
+  list-style: none;
+}
+
+#menu li {
+  margin: 10px 15px 10px -15px;
+  padding: 5px;
+  line-height: 20px;
+  border-width: 2px;
+  border-style: outset;
+}
+
+#menu li:hover {
+  background-color: #ffffff;
+}
+
+#menu li a {
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none;
+  display: block;
+}
+
+#content {
+  padding: 10px;
+  margin-left: 200px;
+}
+
+#content p {
+  margin-bottom: 10px;
+}
+
+#content h2 {
+  font-size: 12pt;
+  margin-bottom: 10px;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
+
+#content ul,
+#content ol {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.center {
+  text-align: center;
+}

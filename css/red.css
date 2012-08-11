@@ -1,0 +1,20 @@
+body {
+  background-color: #7F0000;
+}
+
+#menu li {
+  background-color: #B50000;
+  border-color: #B50000;
+}
+
+#menu li:hover a {
+  color: #B50000;
+}
+
+#content h2 {
+  border-bottom-color: #7F0000;
+}
+
+#content a {
+  color: #7F0000;
+}

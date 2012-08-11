@@ -1,0 +1,20 @@
+body {
+  background-color: #00106B;
+}
+
+#menu li {
+  background-color: #00137F;
+  border-color: #00137F;
+}
+
+#menu li:hover a {
+  color: #00137F;
+}
+
+#content h2 {
+  border-bottom-color: #00106B;
+}
+
+#content a {
+  color: #00106B;
+}

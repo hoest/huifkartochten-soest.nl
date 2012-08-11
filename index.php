@@ -76,6 +76,9 @@
               <a href="/arrangementen.php">Arrangementen</a>
             </li>
             <li>
+              <a href="/ringsteken.php">Ringsteken</a>
+            </li>
+            <li>
               <a href="/geschiedenis_en_achtergrondinformatie.php">Geschiedenis &amp; achtergrondinformatie</a>
             </li>
             <li>

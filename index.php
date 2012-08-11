@@ -21,6 +21,9 @@
             case "arrangementen":
               echo " - Arrangementen";
               break;
+            case "ringsteken":
+              echo " - Ringsteken";
+              break;
             case "geschiedenis_en_achtergrondinformatie":
               echo " - Geschiedenis &amp; achtergrondinformatie";
               break;

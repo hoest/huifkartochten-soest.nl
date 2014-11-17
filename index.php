@@ -27,6 +27,9 @@
             case "geschiedenis_en_achtergrondinformatie":
               echo " - Geschiedenis &amp; achtergrondinformatie";
               break;
+            case "pers":
+              echo " - In de pers";
+              break;
             case "links":
               echo " - Links";
               break;
@@ -83,6 +86,9 @@
             </li>
             <li>
               <a href="/geschiedenis_en_achtergrondinformatie.php">Geschiedenis &amp; achtergrondinformatie</a>
+            </li>
+            <li>
+              <a href="/pers.php">In de pers</a>
             </li>
             <li>
               <a href="/links.php">Links</a>
